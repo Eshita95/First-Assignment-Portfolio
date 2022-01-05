@@ -83,9 +83,14 @@ body{
     
 }
 .section-style3 img{
-    width: 100%;
+    width: 120%;
     margin-left: 100px;
     padding-top: 20px;
+}
+.sec3-bg{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .develop-area{
     margin-left: 250px;
@@ -94,5 +99,32 @@ body{
     font-weight: 700;
     font-size: 30px;
 }
+.section-area4{
+    display: flex;
+    width: 80%;
+    padding: 8%;
+    margin-top: 2%;
     
+}
+.paragaraph{
+    margin-right: 60px;
+}
+.section-area4 img{
+    width: 100%;
+}
+.sec4-heading{
+    font-weight: 700;
+    font-size: 30px;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+#span{
+    color: rgb(109, 12, 236);
+}
     
+
