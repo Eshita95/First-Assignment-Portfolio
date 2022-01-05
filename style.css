@@ -21,8 +21,16 @@ body{
     font-size: 50px;
     padding-left: 20px;
 }
+.heading2{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+.span-color{
+    color: rgb(0, 183, 255);
+}
 .blue{
-    color: rgb(16, 163, 221);
+    color: rgb(16, 171, 233);
 }
 .button-link{
     color: white;
@@ -33,3 +41,58 @@ body{
     border-radius: 5px;
     
 }
+.section-style2{
+   
+    width: 50%;
+    
+}
+.section-style2 img{
+    width: 50%;
+    
+}
+.column{
+    display: flex;
+    padding-left: 50px;
+   
+}
+#mission{
+    background-color: burlywood;
+    
+    
+}
+#vission{
+    background-color: rgb(141, 114, 135);
+    
+
+}
+#goals{
+    background-color: rgb(131, 163, 182);
+    
+
+}
+.box-style{
+    border-radius: 10px;
+    padding: 2%;
+    margin: 10%;
+    width: 30%;
+    
+}
+.section-style3{
+    display: flex;
+    width: 80%;
+    
+}
+.section-style3 img{
+    width: 100%;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.develop-area{
+    margin-left: 250px;
+}
+.sec3-heading{
+    font-weight: 700;
+    font-size: 30px;
+}
+    
+    
