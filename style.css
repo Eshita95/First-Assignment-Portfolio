@@ -52,30 +52,29 @@ body{
 }
 .column{
     display: flex;
-    padding-left: 50px;
-   
+
 }
 #mission{
-    background-color: burlywood;
-    
+    background-color: rgb(241, 216, 183);
     
 }
 #vission{
-    background-color: rgb(141, 114, 135);
-    
-
+    background-color: rgb(243, 209, 236);
+   
 }
 #goals{
-    background-color: rgb(131, 163, 182);
-    
-
+    background-color: rgb(167, 194, 209);
 }
 .box-style{
     border-radius: 10px;
     padding: 2%;
-    margin: 10%;
+    margin:0 2%;
     width: 30%;
+    height: 300px;
     
+}
+.box-style img{
+    width: 40%;
 }
 .section-style3{
     display: flex;
@@ -116,6 +115,18 @@ body{
     font-weight: 700;
     font-size: 30px;
 
+}
+.input-area{
+    font-weight: 800;
+    color: rgb(27, 97, 177);
+    
+}
+.input-box{
+  margin:5%;
+  width: 50%;
+  border: 3px solid rgb(58, 147, 206);
+  padding: 10px;
+  text-align: center;
 }
 .footer{
     background-color: black;
